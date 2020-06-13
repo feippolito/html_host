@@ -7,3 +7,5 @@
 [IT](./sliderITdark.html)
 
 [CN](./sliderCNdark.html)
+
+[SIR](./SIR-slider.html)
