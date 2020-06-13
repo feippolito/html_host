@@ -1,4 +1,4 @@
-# My Maps
+# My Graphs
 
 [BR](./sliderBRdark.html)
 
